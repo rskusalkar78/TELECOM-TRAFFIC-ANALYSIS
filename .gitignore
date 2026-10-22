@@ -8,3 +8,5 @@ __pycache__/
 !.env.example
 data/*.txt
 outputs/sampled_telecom_data.csv
+
+sms-call-internet-mi-2013-11-01.txt
