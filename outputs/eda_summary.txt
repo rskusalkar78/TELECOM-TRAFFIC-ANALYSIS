@@ -1,0 +1,18 @@
+TELECOM TRAFFIC EXPLORATORY DATA ANALYSIS SUMMARY
+============================================================
+
+1. DIURNAL TRAFFIC PATTERNS:
+   - Peak internet activity occurs at approximately 16:00.
+   - Minimum traffic (trough) occurs during nighttime at 04:00.
+   - Traffic exhibits a clear human behavioral cycle matching typical work and leisure hours.
+
+2. MODALITY CORRELATIONS:
+   - Pearson correlation with Call-in: 0.795
+   - Pearson correlation with Call-out: 0.799
+   - Pearson correlation with SMS-in: 0.788
+   - Pearson correlation with SMS-out: 0.750
+
+3. KEY OBSERVATIONS:
+   - Voice and SMS volume moderately to strongly co-occur with data consumption.
+   - Time-of-day (hour) is a crucial non-linear feature for activity estimation.
+============================================================
